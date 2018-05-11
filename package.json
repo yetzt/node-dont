@@ -1,6 +1,6 @@
 {
   "name": "dont",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "svg donuts",
   "main": "dont.js",
   "repository": {
